@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from transliterate import get_translit_function
 from transliterate.base import TranslitLanguagePack, registry
 
@@ -36,6 +38,7 @@ class KazakhLanguagePack(TranslitLanguagePack):
 registry.register(KazakhLanguagePack)
 
 translit_kk = get_translit_function("kk")
+
 
 def translit(value: str) -> str:
     """Transliterate the text."""

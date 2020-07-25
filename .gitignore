@@ -4,3 +4,4 @@ venv/
 dist/
 build/
 qazaq_transliterator.egg-info/
+.eggs/
