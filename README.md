@@ -5,7 +5,7 @@
 
 ![Qazaq Transliterator](https://tengrinews.kz/userdata/news/2017/news_315984/photo_212587.jpg)
 
-Transliteration of the old Kazakh alphabet into a new one
+Transliteration of the old Kazakh alphabet into a new one. Inspired by [barseghyanartur/transliterate](https://github.com/barseghyanartur/transliterate)
 
 ## Prerequisites
 
