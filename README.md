@@ -27,7 +27,7 @@ from qazaq_transliterator import translit
 text = "Қазақстан Республикасы — Шығыс Еуропа мен Орталық Азияда орналасқан мемлекет."
 
 print(translit(text))
-# Qazaqstan Respýblıkasy — Shyǵys Eýropa men Ortalyq Azııada ornalasqan memleket.
+# Qazaqstan Respublikasy — Şyğys Europa men Ortalyq Aziiada ornalasqan memleket.
 ```
 
 ## Testing
