@@ -9,8 +9,8 @@ class KazakhLanguagePack(TranslitLanguagePack):
     language_name = "Kazakh"
 
     mapping = (
-        u"аәбвгғдеёжзийкқлмнңоөпрстуұүфхһцъыіьэАӘБВГҒДЕЁЖЗИЙКҚЛМНҢОӨПРСТУҰҮФХҺЦЪЫІЬЭ",
-        u"aábvgǵdeejzııkqlmnńoóprstýuúfhhc'yi'eAÁBVGǴDEEJZIIKQLMNŃOÓPRSTÝUÚFHHC'YI'E"
+        u"аәбвгғдеёжзийкқлмнңоөпрстуұүфхһцшъыіьэАӘБВГҒДЕЁЖЗИЙКҚЛМНҢОӨПРСТУҰҮФХҺЦШЪЫІЬЭ",
+        u"aäbvgğdeejziikqlmnŋoöprstuūüfhhcş'yı'eAÄBVGĞDEEJZİİKQLMNŊOÖPRSTUŪÜFHHCŞ'YI'E"
     )
 
     # TODO
@@ -23,15 +23,13 @@ class KazakhLanguagePack(TranslitLanguagePack):
 
     pre_processor_mapping = {
         u"ч": u"ch",
-        u"ш": u"sh",
-        u"щ": u"sch",
-        u"ю": u"ıý",
-        u"я": u"ıa",
+        u"щ": u"şh",
+        u"ю": u"iu",
+        u"я": u"ia",
         u"Ч": u"Ch",
-        u"Ш": u"Sh",
-        u"Щ": u"Sch",
-        u"Ю": u"Iý",
-        u"Я": u"Ia",
+        u"Щ": u"Şh",
+        u"Ю": u"İu",
+        u"Я": u"İa",
     }
 
 
