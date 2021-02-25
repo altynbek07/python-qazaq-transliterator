@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='qazaq_transliterator',
-    version='1.0',
+    version='2.0',
     description='Transliteration of the old Kazakh alphabet into a new one',
     long_description=long_description,
     long_description_content_type="text/markdown",
